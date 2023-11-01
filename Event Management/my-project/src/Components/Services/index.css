@@ -1,0 +1,25 @@
+.loading{
+    position: relative;
+    overflow: hidden;
+}
+
+.loading::after{
+    position: absolute;
+    content: "";
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-image: linear-gradient(to left, transparent, rgb(216,216,216), transparent);
+    animation: loading-ans 1s linear infinite;
+}
+
+@keyframes loading-ans {
+    0%{
+        transform: translateX(-100%);
+    }
+
+    100%{
+        transform: translateX(100%);
+    }
+}

@@ -1,0 +1,40 @@
+[
+    {
+      
+      "eventImage": "https://media.licdn.com/dms/image/D4D22AQF5o3j1QEzDmQ/feedshare-shrink_800/0/1696583610489?e=1699488000&v=beta&t=lqcDnOnjXT0pUkQpbfvUQQKE7ArW1AEJbN7yXwE0xCA",
+      "eventDescription": "Join us for an immersive educational coding conference that will take your programming skills to the next level. This comprehensive conference spans three days and covers a wide range of topics, including web development, software engineering, and app deployment. Learn from industry experts and gain hands-on experience in building web applications. Whether you're a beginner or an experienced developer, this conference is designed to inspire, educate, and transform your coding skills. Don't miss this opportunity to accelerate your career in the tech industry.",
+      
+        
+          "eventType": "Conference",
+          "eventDateTime": "October 15-17, 2023",
+          "eventLocation": "TechHub Campus, New York City"
+       ,
+      "eventName": "TechPro Coding Conference"
+    },
+    {
+      
+      "eventImage": "https://marketinginsidergroup.com/wp-content/uploads/2023/09/Screen-Shot-2023-07-10-at-2.11.32-PM.png",
+      "eventDescription": "Unlock the secrets of digital marketing in our comprehensive educational marketing conference. Discover the latest trends in online advertising, social media marketing, and SEO strategies. This one-day conference is packed with practical insights and hands-on exercises that will help you navigate the digital marketing landscape with confidence. Whether you're a marketing professional or a business owner, this educational conference is your gateway to success in the world of online marketing. Join us on November 5, 2023, at the Marketing Institute in Los Angeles and embark on your digital marketing learning journey.",
+      
+        
+    "eventType": "Conference",
+    "eventDateTime": "November 5, 2023",
+    "eventLocation": "Marketing Institute, Los Angeles"
+      
+      ,
+      "eventName": "Digital Marketing Mastery Conference"
+    },
+    {
+        
+        "eventImage": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202211/Michael%20Roytek%20ICPC%20hall%20packed%20with%20teams.jpg?itok=A-33v-xC",
+        "eventDescription": "Calling all aspiring competitive programmers! Dive into the world of competitive programming with our intensive 3-day conference. Learn advanced algorithms, problem-solving techniques, and compete in coding challenges. This competitive programming conference, scheduled for December 8-10, 2023, at the Data Analytics Center in San Francisco, is your gateway to honing your coding skills and competing at the highest level. Join us and unlock your potential in competitive programming.",
+        
+         
+            "eventType": "Conference",
+            "eventDateTime": "December 8-10, 2023",
+            "eventLocation": "Data Analytics Center, San Francisco",
+        
+        "eventName": "Competitive Programming Events"
+      }
+  ]
+  

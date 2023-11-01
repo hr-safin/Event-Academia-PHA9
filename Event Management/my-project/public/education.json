@@ -1,0 +1,45 @@
+[
+    {
+      
+      "event_name": "Project Management Workshop",
+      "event_price": "$179",
+      "event_image": "https://storage.googleapis.com/profit-prod/wp-content/uploads/2022/12/1c366a4d-beginners-guide.jpg",
+      "short_description": "Enhance your project management skills and deliver successful outcomes."
+    },
+    {
+      
+      "event_name": "Leadership Excellence Workshop",
+      "event_price": "$149",
+      "event_image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1200,h_600/https://etda.tl/wp-content/uploads/2021/08/management-and-leadership-workshop.jpg",
+      "short_description": "Develop your leadership skills and lead with confidence."
+    },
+    {
+      
+      "event_name": "Data Science Bootcamp",
+      "event_price": "$299",
+      "event_image": "https://www.indianext.co.in/wp-content/uploads/2022/12/What-is-data-science-2.jpg",
+      "short_description": "Dive into the world of data science and harness the power of data."
+    },
+    {
+      
+      "event_name": "Career Fair",
+      "event_price": "$ 100",
+      "event_image": "https://careers.umd.edu/sites/default/files/styles/optimized/public/2022-04/Banners%20for%20New%20Website%20%283%29_0.png?itok=sXuPURNB",
+      "short_description": "Connect with potential employers and explore exciting career opportunities."
+    },
+    {
+      
+      "event_name": "Entrepreneurship Summit",
+      "event_price": "$179",
+      "event_image": "https://www.fitnyc.edu/_resources/assets/img/entrepreneruship-summit.png",
+      "short_description": "Learn from successful entrepreneurs and kickstart your own venture."
+    },
+    {
+      
+      "event_name": "Creative Writing Workshop",
+      "event_price": "$129",
+      "event_image": "https://www.aces.org/uploads/images/CW%20Heading.png?v=1677789329998",
+      "short_description": "Unleash your creativity through the art of storytelling and writing."
+    }
+  ]
+  
